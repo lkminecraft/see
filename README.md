@@ -1,4 +1,3 @@
-see
+Давайте выкладывать сюда наши коды.
 ===
 
-Page for encoding LK for minecraft.
